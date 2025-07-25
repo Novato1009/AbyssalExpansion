@@ -1,0 +1,15 @@
+{
+  "Name": "AbyssalExpansion",
+  "Version": "1.0.0",
+  "FriendlyName": "Abyssal Expansion",
+  "Description": "Explora el océano con monstruos marinos, recursos submarinos y nuevas tecnologías acuáticas en Satisfactory.",
+  "Authors": ["Irvin Vásquez"],
+  "Website": "https://github.com/IrvinVasquez/AbyssalExpansion-Mod",
+  "License": "MIT",
+  "ModDependencies": [
+    {
+      "ModReference": "SML",
+      "MinVersion": "3.5.0"
+    }
+  ]
+}
